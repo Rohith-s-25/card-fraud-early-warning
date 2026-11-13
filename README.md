@@ -215,7 +215,7 @@ At 100 alerts/day: **precision 0.43 (0.39–0.46), recall 0.51 (0.47–0.54)**, 
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/card-fraud-early-warning.git
+git clone https://github.com/Rohith-s-25/card-fraud-early-warning.git
 cd card-fraud-early-warning
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt

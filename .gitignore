@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# data is downloaded, never committed
+data/raw/
+data/*.parquet
+!data/README.md
+.DS_Store
+Thumbs.db
